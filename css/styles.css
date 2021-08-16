@@ -101,6 +101,12 @@ a:hover {
     line-height: 2;
 }
 
+.mariam {
+    text-align: center;
+    width: 180px;
+    height: 180px;
+}
+
 .web {
     width: 25%;
     float: left;
